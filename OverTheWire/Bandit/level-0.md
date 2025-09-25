@@ -3,6 +3,7 @@
 The goal of this level is for you to log into the game using SSH. The host to which you need to connect is bandit.labs.overthewire.org, on port 2220. The username is bandit0 and the password is bandit0. Once logged in, go to the Level 1 page to find out how to beat Level 1.
 
 **Reading Material**
+
 Secure Shell (SSH) on Wikipedia: https://en.wikipedia.org/wiki/Secure_Shell
 
 How to use SSH with a non-standard port on It's FOSS: https://itsfoss.com/ssh-to-port/
