@@ -25,7 +25,7 @@ Bandit is ideal for beginners wanting hands-on practice with Linux commands, fil
   - Enter the password for the current level.
   - Start solving! Each level’s password unlocks the next user.
 
-`**Note: **`This is for the users who are playing the Bandit in VM, you may fail to connect to overthewire.org via SSH with a "broken pipeline error" when the network adapter for the VM is configured to use NAT mode. Adding in the setting IPQoS throughput to /etc/ssh/ssh_config should resolve the issue.  
+`**Note:**` This is for the users who are playing the Bandit in VM, you may fail to connect to overthewire.org via SSH with a "broken pipeline error" when the network adapter for the VM is configured to use NAT mode. Adding in the setting IPQoS throughput to /etc/ssh/ssh_config should resolve the issue.  
 If this does not solve your issue, the only option then is to change the adapter to Bridged mode.  
 
 `i) VM Adapter -> NAT -> Add IPQoS throughput -> /etc/ssh/ssh_config`  
