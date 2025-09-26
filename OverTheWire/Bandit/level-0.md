@@ -16,7 +16,7 @@ Level 0 Page: https://overthewire.org/wargames/bandit/bandit0.html
 # Solution
 Use SSH to login the server with the following information.
 
-Username: `bandit0`.
-Password: `bandit0`.
-Host: `bandit.labs.overthewire.org`\n
-Port: `2220`.
+  Username: `bandit0`
+  Password: `bandit0`
+  Host: `bandit.labs.overthewire.org`
+  Port: `2220`
