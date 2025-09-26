@@ -14,9 +14,15 @@ How to use SSH with ssh-keys on wikiHow: https://www.wikihow.com/Use-SSH
 Level 0 Page: https://overthewire.org/wargames/bandit/bandit0.html
 
 # Solution
-Use SSH to login the server with the following information.
+Use SSH to login from the server with the following information.
 
 Username: `bandit0`  
 Password: `bandit0`  
 Host: `bandit.labs.overthewire.org`  
 Port: `2220`  
+
+**Command Format:** `ssh Username@Host -p Port`  
+Note: You can IP instead of Host.  
+
+On successful login  
+![level 0](../Images/level0-login.png)
