@@ -22,7 +22,7 @@ Host: `bandit.labs.overthewire.org`
 Port: `2220`  
 
 **Command Format:** `ssh Username@Host -p Port`  
-Note: You can IP instead of Host.  
+Note: You can use IP instead of Host.  
 
 On successful login  
 ![level 0](../Images/level0-login.png)
