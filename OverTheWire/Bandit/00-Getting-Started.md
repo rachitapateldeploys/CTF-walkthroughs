@@ -9,7 +9,8 @@ Bandit is ideal for beginners wanting hands-on practice with Linux commands, fil
 # What You Need to Start Playing Bandit
 **Basic Requirements:**
   - A computer with an internet connection.
-  - SSH client installed (pre-installed on Linux/macOS; Windows users can use PuTTY or Windows Terminal with OpenSSH).  
+  - SSH client installed (pre-installed on Linux/macOS; Windows users can use PuTTY or Windows Terminal with OpenSSH).
+ 
 **Knowledge:**
   - Basic familiarity with Linux command line is helpful but not mandatory.
   - Willingness to learn shell commands and Linux file system navigation.
