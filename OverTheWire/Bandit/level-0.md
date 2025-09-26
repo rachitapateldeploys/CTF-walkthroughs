@@ -49,7 +49,7 @@ Once logged-in use the appropriate commands to find the file and view the file c
 - Use `ls` to verify the file exists in the current directory.  
   `ls`
 
-- Use `cat` to display the contents of the file.
+- Use `cat` to display the contents of the file.  
   `cat readme`
 
 Password: `ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If`  
