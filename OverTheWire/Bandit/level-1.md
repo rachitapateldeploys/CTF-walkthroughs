@@ -34,7 +34,7 @@ Once logged-in use the appropriate commands to find the file named `-` and view 
 - Use `ls` to verify the file exists in the current directory.  
   `ls`
 
-- Use `cat` the following command to view file content.  
+- Use the following command to view file content.  
   `cat ./-`
 
 Password: `263JGJPfgU6LtdEvgfWU1XP5yac29mFx`  
