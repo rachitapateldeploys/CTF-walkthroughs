@@ -3,7 +3,7 @@
 
 The password for the next level is stored in a file called - located in the home directory
 
-**Commands you may need to solve this level**
+**Commands you may need to solve this level**  
 `ls:` Lists files and directories.  
 `cd:` Changes the current directory.  
 `cat:` Displays the contents of the a file.  
