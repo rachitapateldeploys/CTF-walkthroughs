@@ -35,7 +35,10 @@ Once logged-in use the appropriate commands to find the directory named `inhere`
   `ls`
   
 - Use `file` command to view the type of file.  
-  `file ./-file*`  
+  `file ./-file*`
+
+- Use the following command to view content of the only human-readable file.
+  `cat ./-file07`
 
 `Note:` `*` is a wildcard used to match zero or more characters in filenames. Used in `cat ./-file*` to avoid checking or typing each file individually, as it matches all files starting with `-file`.
 
